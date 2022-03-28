@@ -17,3 +17,9 @@ A really good cybersec reading materials.
 - https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f
 ### Deep-dive into Windows Active Directory for Penetesters!
 - https://tajdini.net/blog/forensics-and-security/pentest-windows-active-directory/
+### Timing attack mitigation must exclude network
+- https://adam-p.ca/blog/2021/11/constant-time-network/
+### Put an io_uring on it: Exploiting the Linux Kernel
+- https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel
+### Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql
+- https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4

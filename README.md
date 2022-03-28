@@ -1,5 +1,5 @@
 # really-good-cybersec
-A really good reading materials about cyber security.
+A really good cybersec reading materials.
 
 ### Implementing a toy version of TLS 1.3
 - https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/

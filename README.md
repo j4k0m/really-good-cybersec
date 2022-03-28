@@ -15,3 +15,5 @@ A really good cybersec reading materials.
 - https://dev.to/pirateducky/ssti-method-confusion-in-go-517p
 ### A story of leaking uninitialized memory from Fastly
 - https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f
+### Deep-dive into Windows Active Directory for Penetesters!
+- https://tajdini.net/blog/forensics-and-security/pentest-windows-active-directory/

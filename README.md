@@ -11,3 +11,7 @@ A really good reading materials about cyber security.
 - https://github.com/voidfyoo/rwctf-4th-desperate-cat/tree/main/writeup
 ### CVE-2021-22555: Turning \x00\x00 into 10000$
 - https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
+### SSTI Method Confusion in Go.
+- https://dev.to/pirateducky/ssti-method-confusion-in-go-517p
+### A story of leaking uninitialized memory from Fastly
+- https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f

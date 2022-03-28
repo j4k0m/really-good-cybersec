@@ -23,3 +23,5 @@ A really good cybersec reading materials.
 - https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel
 ### Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4
+### Prototype pollution attack in NodeJS
+- https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf

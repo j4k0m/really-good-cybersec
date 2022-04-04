@@ -27,3 +27,7 @@ A really good cybersec reading materials.
 - https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf
 ### elFinder: The story of a repwning
 - https://www.synacktiv.com/en/publications/elfinder-the-story-of-a-repwning.html
+### Insecure cipher used in forum software
+- https://0g.vc/posts/insecure-cipher-gnuboard5/
+### CVE-2022-27666: Exploit esp6 modules in Linux kernel
+- https://etenal.me/archives/1825

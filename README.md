@@ -31,3 +31,5 @@ A really good cybersec reading materials.
 - https://0g.vc/posts/insecure-cipher-gnuboard5/
 ### CVE-2022-27666: Exploit esp6 modules in Linux kernel
 - https://etenal.me/archives/1825
+### CVE-2021-4191: GitLab GraphQL API User Enumeration
+- https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/

@@ -33,3 +33,5 @@ A really good cybersec reading materials.
 - https://etenal.me/archives/1825
 ### CVE-2021-4191: GitLab GraphQL API User Enumeration
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/
+### Spring4Shell: Security Analysis of the latest Java RCE '0-day' vulnerabilities in Spring
+- https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/

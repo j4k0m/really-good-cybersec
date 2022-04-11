@@ -35,3 +35,5 @@ A really good cybersec reading materials.
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/
 ### Spring4Shell: Security Analysis of the latest Java RCE '0-day' vulnerabilities in Spring
 - https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/
+### Reversing Common Obfuscation Techniques
+- https://ferib.dev/blog.php?l=post/Reversing_Common_Obfuscation_Techniques

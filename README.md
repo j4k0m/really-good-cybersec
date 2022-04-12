@@ -37,3 +37,5 @@ A really good cybersec reading materials.
 - https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/
 ### Reversing Common Obfuscation Techniques
 - https://ferib.dev/blog.php?l=post/Reversing_Common_Obfuscation_Techniques
+### A BEAUTIFUL FACTORY FOR MALICIOUS PACKAGES
+- https://checkmarx.com/blog/a-beautiful-factory-for-malicious-packages/

@@ -39,3 +39,7 @@ A really good cybersec reading materials.
 - https://ferib.dev/blog.php?l=post/Reversing_Common_Obfuscation_Techniques
 ### A BEAUTIFUL FACTORY FOR MALICIOUS PACKAGES
 - https://checkmarx.com/blog/a-beautiful-factory-for-malicious-packages/
+### Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054)
+- https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/
+### What's Really Going On Inside Your node_modules Folder?
+- https://socket.dev/blog/inside-node-modules

@@ -43,3 +43,9 @@ A really good cybersec reading materials.
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/
 ### What's Really Going On Inside Your node_modules Folder?
 - https://socket.dev/blog/inside-node-modules
+### Bypassing CSP with dangling iframes
+- https://portswigger.net/research/bypassing-csp-with-dangling-iframes
+### The State of CSRF Vulnerability in 2022
+- https://utkusen.medium.com/the-state-of-csrf-vulnerability-in-2022-3858e6d90ab9
+### Zimbra Email - Stealing Clear-Text Credentials via Memcache injection
+- https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/

@@ -49,3 +49,5 @@ A really good cybersec reading materials.
 - https://utkusen.medium.com/the-state-of-csrf-vulnerability-in-2022-3858e6d90ab9
 ### Zimbra Email - Stealing Clear-Text Credentials via Memcache injection
 - https://blog.sonarsource.com/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/
+### How I Hacked my Car
+- https://programmingwithstyle.com/posts/howihackedmycar/
